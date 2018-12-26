@@ -1,0 +1,2 @@
+service_id,date,exception_type
+everyday,20190101,2

@@ -1,0 +1,33 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon
+101ini,Padre Cerqueira 1525,Calle 3 y Cementerio,-27.45446,-59.00974
+porCalle3,Calle 3 y Pasaje Libertad,Parada techada hacia el centro,-27.44995,-59.00464
+porCalle3AntesAvAlv,Calle 3 y Avenida Alvear,Por calle 3 hacia el centro bajo el semáforo,-27.44891,-59.00355
+PCERQSGO,Calle 3 y Santiago del Estero,,-27.44536,-58.99975
+capillaSanRoque,Pio XII y Santiago del Estero,Frente a la Capilla San Roque,-27.44645,-58.99888
+postCapillaSanRoque,Pio XII y Salta,Detrás de la Capilla,-27.44571,-58.99803
+saltaAvHernan,Salta y Avenida Hernandarias,Antes de la avenida Hernandarias,-27.44704,-58.99644
+av25deMayoCangallo,Av. 25 de Mayo y Cangallo,Frente a la farmacia del INSSSEP,-27.44562,-58.99291
+25MAY2,Av. 25 de Mayo 550,Consejo Prof. de Agrimensores Arquitectos e Ingenieros,-27.44696,-58.99132
+NECOCH1,Necochea 50,Cancha de Paddle,-27.44913,-58.98954
+ROCA1,Julio A. Roca 150,,-27.45074,-58.98876
+JUANBJ1,Juan B. Justo 10,Banco Hipotecario,-27.45218,-58.98716
+9DEJULIO1,Av. 9 de Julio 170,Parada Inteligente,-27.45249,-58.98513
+9DEJULIO2,Av. 9 de Julio 390,Techada diagonal a Cablevisión,-27.45416,-58.98324
+9DEJULIO3,Av. 9 de Julio 690,Colegio Nacional,-27.45652,-58.98061
+9DEJULIO4,Av. 9 de Julio 850,Escuela N°45,-27.45799,-58.97890
+9DEJULIO5,Av. 9 de Julio 1090,Hospital Perrando,-27.45973,-58.97696
+9DEJULIO6,Av. 9 de Julio 1399,,-27.46215,-58.97430
+9DEJULIO7,Av. 9 de Julio 1596,9 de Julio esquina con Av. Chaco,-27.4638186,-58.9724367
+9DEJULIO9,Av. 9 de Julio 3170,CEP N°54 Pablo Ricchieri,-27.4762618,-58.9583474
+PERONCERQUEIRA,Perón y Calle 3,,-27.44404,-58.99800
+PERONROQUE,J.D.Perón y San Roque,,-27.44558,-58.99623
+CASADEGOB,Bartolomé Mitre 30,Leer los números en los andenes,-27.44980,-58.98686
+25DEMAYONEC,25 de Mayo y Necochea,Estación de servicio,-27.44881,-58.98902
+25DEMAYO550,25 de Mayo 550,,-27.4467365,-58.9913149
+25DEMAYOFORMOSA,25 de Mayo 698,,-27.44571,-58.99250
+MARCTAVALOS,Marcelo T. de Alvear y Ávalos,,-27.44418,-58.99251
+HERNANDARIAS871,Av. Hernandarias 871,,-27.44537,-58.99438
+CERQUEIRAVIA,Padre Cerqueira 502,Después de las vías del ferrocarril,-27.44653,-59.00104
+CERQUEIRAMENDOZA,Calle 3 698,Esquina con Mendoza,-27.44776,-59.00243
+LAPRIDA2,Avenida Laprida 5398,Anteúltima parada,-27.48677,-58.93202
+GABOTO99,Laprida y Av. Gaboto,Fin del Recorrido 101,-27.48925,-58.92928

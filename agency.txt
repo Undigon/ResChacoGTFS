@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+,Resistencia Chaco Linea 101,http://ersaurbano.com/recorridos/resistencia/linea-101,America/Argentina/Cordoba,es
