@@ -13,7 +13,7 @@
 - [ ] Oficial
 #Paradas de Resistencia
 * Stops.txt
-- [] Oeste
-- [] Este
-- [] Norte
-- [] Sur
+- [ ] Oeste
+- [ ] Este
+- [ ] Norte
+- [ ] Sur
