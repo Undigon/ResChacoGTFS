@@ -48,3 +48,19 @@ shape_id,shape_pt_lat,shape_pt_lon,shape_pt_sequence
 110_shape_ida,-27.46786,-58.91012,14
 
 110_shape_vuelta,-27.46786,-58.91012,1
+110_shape_vuelta,-27.46353,-58.91480,2
+110_shape_vuelta,-27.48285,-58.93631,3
+110_shape_vuelta,-27.48288,-58.95060,4
+110_shape_vuelta,-27.45188,-58.98556,5
+110_shape_vuelta,-27.45116,-58.98475,6
+110_shape_vuelta,-27.44958,-58.98649,7
+110_shape_vuelta,-27.45345,-58.99086,8
+110_shape_vuelta,-27.44797,-58.99705,9
+110_shape_vuelta,-27.45065,-59.00005,10
+110_shape_vuelta,-27.45105,-59.00068,11
+110_shape_vuelta,-27.45757,-59.00796,12
+110_shape_vuelta,-27.45549,-59.01030,13
+110_shape_vuelta,-27.46187,-59.01743,14
+110_shape_vuelta,-27.45700,-59.02296,15
+110_shape_vuelta,-27.45686,-59.02285,16
+110_shape_vuelta,-27.45686,-59.02234,17

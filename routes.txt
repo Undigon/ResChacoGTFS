@@ -5,3 +5,5 @@ ERSA_3,3Aida,3 A,Línea 3 desde Barrio Vial hasta Av. Italia,3
 ERSA_3,3Avuelta,3 A,Línea 3 desde Av. Italia hasta Barrio Vial,3
 ERSA_3,3Bida,3 B,Línea 3 desde Barrio Vial hasta Av. Sarmiento,3
 ERSA_3,3Bvuelta,3 B,Línea 3 desde Av. Sarmiento hasta Barrio Vial,3
+Ataco_Norte,110ida,110,,3
+Ataco_Norte,110vuelta,110,,3
