@@ -31,3 +31,5 @@ CERQUEIRAVIA,Padre Cerqueira 502,Después de las vías del ferrocarril,-27.44653
 CERQUEIRAMENDOZA,Calle 3 698,Esquina con Mendoza,-27.44776,-59.00243
 LAPRIDA2,Avenida Laprida 5398,Anteúltima parada,-27.48677,-58.93202
 GABOTO99,Laprida y Av. Gaboto,Fin del Recorrido 101,-27.48925,-58.92928
+TERM,Terminal de Colectivos Resistencia,Parada de colectivos de línea,-27.45686,-59.02234
+TOMA,La toma, Planta Potabilizadora de Agua,-27.46786,-58.91012

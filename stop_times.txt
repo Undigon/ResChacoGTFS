@@ -37,3 +37,9 @@ vuelta,CERQUEIRAMENDOZA,,,98,0
 vuelta,porCalle3AntesAvAlv,,,99,0
 vuelta,porCalle3,,,100,0
 vuelta,101ini,08:30:00,08:30:00,101,0
+
+110ida,TERM,06:00:00,06:00:00,1,0
+110ida,TOMA,08:30:00,08:30:00,50,0
+
+110vuelta,TOMA,06:00:00,06:00:00,1,0
+110vuelta,TERM,8:30:00,08:30:00,50,

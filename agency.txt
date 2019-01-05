@@ -1,4 +1,4 @@
 agency_id,agency_name,agency_url,agency_timezone,agency_lang
 ERSA_101,ERSA,http://ersaurbano.com/recorridos/resistencia/linea-101,America/Argentina/Cordoba,es
 ERSA_3,ERSA,http://ersaurbano.com/recorridos/resistencia/linea-3,America/Argentina/Cordoba,es
-Ataco_Norte,Ataco Norte,,America/Argentina/Cordoba,es
+Ataco_Norte,Ataco Norte,http://resistencia.gob.ar/ciudad/servicios/como-moverte/,America/Argentina/Cordoba,es
